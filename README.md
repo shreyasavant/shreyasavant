@@ -1,6 +1,5 @@
-# Hi there 👋, Welcome to my GitHub Profile
+# Hi there 👋
 
-## 💫 About Me:
 🔬 I'm Shreya, a PhD student in Information and Systems Engineering at Concordia University, researching multi-agent AI systems for energy systems and bias in Large Language Models<br>
 🌱 Currently working on LLM in energy AI applications<br>
 💻 I build AI systems to validate research ideas—bridging theory with scalable implementations<br>
@@ -52,11 +51,13 @@
 - **Computer Vision**: Medical imaging, edge deployment, real-time processing
 
 ## 🔬 Research Interests:
-- Causal fairness and bias mitigation in foundation models
+- Fairness and bias mitigation in foundation models
 - Multi-agent coordination for critical infrastructure
 - Long-context understanding and dialogue coherence
 - Responsible AI deployment in energy systems
 - Open-source tools for digital cultural heritage
+- AI models for time forecasting
+- AI in security applications, Zero Knowledge Proofs
 
 ## 🏆 Achievements:
 - VoltAge Doctoral Fellowship recipient
@@ -64,7 +65,6 @@
 - Presented at Blacklight Summit 2025
 - Published in CAI 2026 and EACL 2026
 - Panellist for Skills Summit 2025: Consortium of English-Language CEGEPs, Colleges and Universities of Quebec
-- IELTS Band 8 (L:9.0, R:8.5, W:7.5, S:8.0)
 
 ## 💡 Open Source Contributions:
 - **SpokenWeb Search Engine**: Ruby on Rails platform for literary audio archives
@@ -76,7 +76,7 @@
 ### 📫 How to reach me:
 - Email: shreyasavant10@gmail.com
 - LinkedIn: [linkedin.com/in/shreyasavant](https://linkedin.com/in/shreyasavant)
-- Portfolio: [Your Portfolio URL]
+- Portfolio: [shreyasavant.github.io](https://shreyasavant.github.io/)
 
 ---
 
